@@ -9,6 +9,8 @@ In November 2019 **Rob England** [reported on the latest data on fly-tipping](ht
 ## Get the data
 
 * DEFRA: [Fly tipping incidents and actions taken in England](https://www.gov.uk/government/statistical-data-sets/env24-fly-tipping-incidents-and-actions-taken-in-england) (copies in this repo)
+* CSV: [Rates per 1,000 residents by local authority](https://github.com/BBC-Data-Unit/flytipping-2019/blob/master/flytippinglocal.csv)
+* CSV: [Total incidents by year, 2007/08-2018/19](https://github.com/BBC-Data-Unit/flytipping-2019/blob/master/flytiptotals.csv)
 
 ## Quotes and interviews
 
